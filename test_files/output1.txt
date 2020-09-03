@@ -1,0 +1,172 @@
+DTMF generator
+---------------
+
+0 - Vector Create
+1 - Input chars
+2 - Write to file
+M - Menu
+E - Exit
+
+Your choice:
+myMalloc: allocating 32 bytes, total allocated 32 bytes
+myMalloc: allocating 2048 bytes, total allocated 2080 bytes
+Vector created successfully!
+
+Your choice:
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 14336 bytes, total allocated 16416 bytes
+myRealloc: allocating 8192 bytes, total allocated 24608 bytes
+myRealloc: allocating 8192 bytes, total allocated 32800 bytes
+myRealloc: allocating 8192 bytes, total allocated 40992 bytes
+myRealloc: allocating 8192 bytes, total allocated 49184 bytes
+myRealloc: allocating 8192 bytes, total allocated 57376 bytes
+myRealloc: allocating 8192 bytes, total allocated 65568 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 73760 bytes
+myRealloc: allocating 8192 bytes, total allocated 81952 bytes
+myRealloc: allocating 8192 bytes, total allocated 90144 bytes
+myRealloc: allocating 8192 bytes, total allocated 98336 bytes
+myRealloc: allocating 8192 bytes, total allocated 106528 bytes
+myRealloc: allocating 8192 bytes, total allocated 114720 bytes
+myRealloc: allocating 8192 bytes, total allocated 122912 bytes
+myRealloc: allocating 8192 bytes, total allocated 131104 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 139296 bytes
+myRealloc: allocating 8192 bytes, total allocated 147488 bytes
+myRealloc: allocating 8192 bytes, total allocated 155680 bytes
+myRealloc: allocating 8192 bytes, total allocated 163872 bytes
+myRealloc: allocating 8192 bytes, total allocated 172064 bytes
+myRealloc: allocating 8192 bytes, total allocated 180256 bytes
+myRealloc: allocating 8192 bytes, total allocated 188448 bytes
+myRealloc: allocating 8192 bytes, total allocated 196640 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 204832 bytes
+myRealloc: allocating 8192 bytes, total allocated 213024 bytes
+myRealloc: allocating 8192 bytes, total allocated 221216 bytes
+myRealloc: allocating 8192 bytes, total allocated 229408 bytes
+myRealloc: allocating 8192 bytes, total allocated 237600 bytes
+myRealloc: allocating 8192 bytes, total allocated 245792 bytes
+myRealloc: allocating 8192 bytes, total allocated 253984 bytes
+myRealloc: allocating 8192 bytes, total allocated 262176 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 270368 bytes
+myRealloc: allocating 8192 bytes, total allocated 278560 bytes
+myRealloc: allocating 8192 bytes, total allocated 286752 bytes
+myRealloc: allocating 8192 bytes, total allocated 294944 bytes
+myRealloc: allocating 8192 bytes, total allocated 303136 bytes
+myRealloc: allocating 8192 bytes, total allocated 311328 bytes
+myRealloc: allocating 8192 bytes, total allocated 319520 bytes
+myRealloc: allocating 8192 bytes, total allocated 327712 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 335904 bytes
+myRealloc: allocating 8192 bytes, total allocated 344096 bytes
+myRealloc: allocating 8192 bytes, total allocated 352288 bytes
+myRealloc: allocating 8192 bytes, total allocated 360480 bytes
+myRealloc: allocating 8192 bytes, total allocated 368672 bytes
+myRealloc: allocating 8192 bytes, total allocated 376864 bytes
+myRealloc: allocating 8192 bytes, total allocated 385056 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 393248 bytes
+myRealloc: allocating 8192 bytes, total allocated 401440 bytes
+myRealloc: allocating 8192 bytes, total allocated 409632 bytes
+myRealloc: allocating 8192 bytes, total allocated 417824 bytes
+myRealloc: allocating 8192 bytes, total allocated 426016 bytes
+myRealloc: allocating 8192 bytes, total allocated 434208 bytes
+myRealloc: allocating 8192 bytes, total allocated 442400 bytes
+myRealloc: allocating 8192 bytes, total allocated 450592 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 458784 bytes
+myRealloc: allocating 8192 bytes, total allocated 466976 bytes
+myRealloc: allocating 8192 bytes, total allocated 475168 bytes
+myRealloc: allocating 8192 bytes, total allocated 483360 bytes
+myRealloc: allocating 8192 bytes, total allocated 491552 bytes
+myRealloc: allocating 8192 bytes, total allocated 499744 bytes
+myRealloc: allocating 8192 bytes, total allocated 507936 bytes
+myRealloc: allocating 8192 bytes, total allocated 516128 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 524320 bytes
+myRealloc: allocating 8192 bytes, total allocated 532512 bytes
+myRealloc: allocating 8192 bytes, total allocated 540704 bytes
+myRealloc: allocating 8192 bytes, total allocated 548896 bytes
+myRealloc: allocating 8192 bytes, total allocated 557088 bytes
+myRealloc: allocating 8192 bytes, total allocated 565280 bytes
+myRealloc: allocating 8192 bytes, total allocated 573472 bytes
+myRealloc: allocating 8192 bytes, total allocated 581664 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 589856 bytes
+myRealloc: allocating 8192 bytes, total allocated 598048 bytes
+myRealloc: allocating 8192 bytes, total allocated 606240 bytes
+myRealloc: allocating 8192 bytes, total allocated 614432 bytes
+myRealloc: allocating 8192 bytes, total allocated 622624 bytes
+myRealloc: allocating 8192 bytes, total allocated 630816 bytes
+myRealloc: allocating 8192 bytes, total allocated 639008 bytes
+myRealloc: allocating 8192 bytes, total allocated 647200 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 655392 bytes
+myRealloc: allocating 8192 bytes, total allocated 663584 bytes
+myRealloc: allocating 8192 bytes, total allocated 671776 bytes
+myRealloc: allocating 8192 bytes, total allocated 679968 bytes
+myRealloc: allocating 8192 bytes, total allocated 688160 bytes
+myRealloc: allocating 8192 bytes, total allocated 696352 bytes
+myRealloc: allocating 8192 bytes, total allocated 704544 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 712736 bytes
+myRealloc: allocating 8192 bytes, total allocated 720928 bytes
+myRealloc: allocating 8192 bytes, total allocated 729120 bytes
+myRealloc: allocating 8192 bytes, total allocated 737312 bytes
+myRealloc: allocating 8192 bytes, total allocated 745504 bytes
+myRealloc: allocating 8192 bytes, total allocated 753696 bytes
+myRealloc: allocating 8192 bytes, total allocated 761888 bytes
+myRealloc: allocating 8192 bytes, total allocated 770080 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 778272 bytes
+myRealloc: allocating 8192 bytes, total allocated 786464 bytes
+myRealloc: allocating 8192 bytes, total allocated 794656 bytes
+myRealloc: allocating 8192 bytes, total allocated 802848 bytes
+myRealloc: allocating 8192 bytes, total allocated 811040 bytes
+myRealloc: allocating 8192 bytes, total allocated 819232 bytes
+myRealloc: allocating 8192 bytes, total allocated 827424 bytes
+myRealloc: allocating 8192 bytes, total allocated 835616 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 843808 bytes
+myRealloc: allocating 8192 bytes, total allocated 852000 bytes
+myRealloc: allocating 8192 bytes, total allocated 860192 bytes
+myRealloc: allocating 8192 bytes, total allocated 868384 bytes
+myRealloc: allocating 8192 bytes, total allocated 876576 bytes
+myRealloc: allocating 8192 bytes, total allocated 884768 bytes
+myRealloc: allocating 8192 bytes, total allocated 892960 bytes
+myRealloc: allocating 8192 bytes, total allocated 901152 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 909344 bytes
+myRealloc: allocating 8192 bytes, total allocated 917536 bytes
+myRealloc: allocating 8192 bytes, total allocated 925728 bytes
+myRealloc: allocating 8192 bytes, total allocated 933920 bytes
+myRealloc: allocating 8192 bytes, total allocated 942112 bytes
+myRealloc: allocating 8192 bytes, total allocated 950304 bytes
+myRealloc: allocating 8192 bytes, total allocated 958496 bytes
+myRealloc: allocating 8192 bytes, total allocated 966688 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+myRealloc: allocating 8192 bytes, total allocated 974880 bytes
+myRealloc: allocating 8192 bytes, total allocated 983072 bytes
+myRealloc: allocating 8192 bytes, total allocated 991264 bytes
+myRealloc: allocating 8192 bytes, total allocated 999456 bytes
+myRealloc: allocating 8192 bytes, total allocated 1007648 bytes
+myRealloc: allocating 8192 bytes, total allocated 1015840 bytes
+myRealloc: allocating 8192 bytes, total allocated 1024032 bytes
+Please enter a symbol (1-9) or A,B,C,D,*,#, space means there is a pause between sounds, anything else to exit.
+Exit
+
+Your choice:
+WAV file created successfully!
+
+Your choice:
+0 - Vector Create
+1 - Input chars
+2 - Write to file
+M - Menu
+E - Exit
+
+Your choice:
+Ending the program!
+myFree: releasing 1024000 bytes, total allocated 32 bytes
+myFree: releasing 32 bytes, total allocated 0 bytes
